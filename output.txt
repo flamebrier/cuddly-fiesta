@@ -1,0 +1,3 @@
+no, text on Russian
+doesn't works
+дополнительная строка
